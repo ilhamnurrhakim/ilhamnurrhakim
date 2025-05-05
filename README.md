@@ -32,7 +32,12 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
 <h2 align="left">Play Game With Me</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/ilhamnurrhakim/ilhamnurrhakim/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -41,9 +46,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilhamnurrhakim/ilhamnurrhakim/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ilhamnurrhakim/ilhamnurrhakim/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/ilhamnurrhakim/ilhamnurrhakim/output/snake.svg" alt="Snake animation" />
 
 ###
