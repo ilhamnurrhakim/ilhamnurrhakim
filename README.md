@@ -6,7 +6,7 @@
 
 ##### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilhamnurrhakim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilham-nurhakim)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilhamnurrhakim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilhamnurrhakim)
 
 ##### 💻 Tech Stack:
 
@@ -32,12 +32,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 <h2 align="left">Play Game With Me</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/ilhamnurrhakim/ilhamnurrhakim/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -49,3 +44,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/ilhamnurrhakim/ilhamnurrhakim/output/snake.svg" alt="Snake animation" />
+
+###
