@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ilhamnurrhakim/ilhamnurrhakim/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/ilhamnurrhakim/ilhamnurrhakim/output/snake.svg" alt="Snake animation" /> -->
 
 ###
